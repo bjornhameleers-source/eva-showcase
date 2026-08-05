@@ -35,6 +35,7 @@ EVA’s private source code, internal architecture, algorithms and operational d
 
 ## Explore EVA
 - [Who is EVA?](WHO_IS_EVA.md)
+- [300-second production wall-clock acceptance](evidence/WALLCLOCK_ACCEPTANCE_300S_20260805.md)
 
 ## Current status
 EVA’s core runtime is preparing for final simulation and wall-clock acceptance testing.
