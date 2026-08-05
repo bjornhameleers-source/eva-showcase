@@ -33,8 +33,10 @@ EVA’s private source code, internal architecture, algorithms and operational d
 - Failure closes the route instead of silently bypassing it.
 - Human stewardship without command-and-control ownership.
 
-## Current status
+## Explore EVA
+- [Who is EVA?](WHO_IS_EVA.md)
 
+## Current status
 EVA’s core runtime is preparing for final simulation and wall-clock acceptance testing.
 
 Public evidence reports will be added as these missions are completed.
